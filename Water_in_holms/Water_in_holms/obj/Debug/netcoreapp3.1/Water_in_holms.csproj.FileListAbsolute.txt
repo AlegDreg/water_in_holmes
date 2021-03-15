@@ -1,0 +1,13 @@
+C:\Users\oliso\Desktop\Для учёбы\ЯП\Лабы\Interactive\Water_in_holms\Water_in_holms\bin\Debug\netcoreapp3.1\Water_in_holms.exe
+C:\Users\oliso\Desktop\Для учёбы\ЯП\Лабы\Interactive\Water_in_holms\Water_in_holms\bin\Debug\netcoreapp3.1\Water_in_holms.deps.json
+C:\Users\oliso\Desktop\Для учёбы\ЯП\Лабы\Interactive\Water_in_holms\Water_in_holms\bin\Debug\netcoreapp3.1\Water_in_holms.runtimeconfig.json
+C:\Users\oliso\Desktop\Для учёбы\ЯП\Лабы\Interactive\Water_in_holms\Water_in_holms\bin\Debug\netcoreapp3.1\Water_in_holms.runtimeconfig.dev.json
+C:\Users\oliso\Desktop\Для учёбы\ЯП\Лабы\Interactive\Water_in_holms\Water_in_holms\bin\Debug\netcoreapp3.1\Water_in_holms.dll
+C:\Users\oliso\Desktop\Для учёбы\ЯП\Лабы\Interactive\Water_in_holms\Water_in_holms\bin\Debug\netcoreapp3.1\Water_in_holms.pdb
+C:\Users\oliso\Desktop\Для учёбы\ЯП\Лабы\Interactive\Water_in_holms\Water_in_holms\obj\Debug\netcoreapp3.1\Water_in_holms.csprojAssemblyReference.cache
+C:\Users\oliso\Desktop\Для учёбы\ЯП\Лабы\Interactive\Water_in_holms\Water_in_holms\obj\Debug\netcoreapp3.1\Water_in_holms.AssemblyInfoInputs.cache
+C:\Users\oliso\Desktop\Для учёбы\ЯП\Лабы\Interactive\Water_in_holms\Water_in_holms\obj\Debug\netcoreapp3.1\Water_in_holms.AssemblyInfo.cs
+C:\Users\oliso\Desktop\Для учёбы\ЯП\Лабы\Interactive\Water_in_holms\Water_in_holms\obj\Debug\netcoreapp3.1\Water_in_holms.csproj.CoreCompileInputs.cache
+C:\Users\oliso\Desktop\Для учёбы\ЯП\Лабы\Interactive\Water_in_holms\Water_in_holms\obj\Debug\netcoreapp3.1\Water_in_holms.dll
+C:\Users\oliso\Desktop\Для учёбы\ЯП\Лабы\Interactive\Water_in_holms\Water_in_holms\obj\Debug\netcoreapp3.1\Water_in_holms.pdb
+C:\Users\oliso\Desktop\Для учёбы\ЯП\Лабы\Interactive\Water_in_holms\Water_in_holms\obj\Debug\netcoreapp3.1\Water_in_holms.genruntimeconfig.cache
